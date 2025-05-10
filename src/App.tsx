@@ -1,7 +1,7 @@
 import './App.css'
 
-import Header from '.Components/header.tsx'
-import Hero from '.Components/Hero.tsx'
+import Header from '.Components/Header'
+import Hero from '.Components/Hero'
 
 function App() {
   return (
